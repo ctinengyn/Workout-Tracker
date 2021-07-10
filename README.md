@@ -26,6 +26,23 @@
 # Deployed Website: 
 [Workout Tracker](https://enigmatic-lowlands-43601.herokuapp.com/)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://enigmatic-lowlands-43601.herokuapp.com/)
+
+# Example
+
+Adding Leg Press as a workout 
+![Adding workout](public/assets/example1.png)
+
+After adding all of the workouts
+![Last workout](public/assets/example2.png)
+
+Workout dashboard
+![Adding workout](public/assets/example3.png)
+
+
 ## Contact
-- [Christine Nguyen](https://github.com/ctinengyn)
-- ctine.ngyn@gmail.com
+**Email:**
+ctine.ngyn@gmail.com
+
+**GitHub:**
+[Christine's GitHub](https://github.com/ctinengyn)
