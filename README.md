@@ -17,10 +17,14 @@
 
 ## Installation
 
-1. Clone repository. 
-2. Check in routes/api-routes and comment in block of code if you want the database to be prepopulated with dummy values
-3. npm install
-4. node server.js
+1. Clone this repository to your local machine.
+
+2. Run `npm install` to install dependencies required for this project.
+
+3. Run `node server.js` to start the application.
+
+# Deployed Website: 
+[Workout Tracker](https://enigmatic-lowlands-43601.herokuapp.com/)
 
 ## Contact
 - [Christine Nguyen](https://github.com/ctinengyn)
